@@ -10,31 +10,28 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Microbiology",
+    "Microbial Ecology",
+    "Chronic Infection"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Microbiology, Immunology and Cancer Biology (Microbiology Track)"
+  institution = "University of Minnesota"
+  year = Current (estimated graduation Fall 2019)
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BSc in Microbiology"
+  institution = "Pennsylvania State University"
+  year = 2010
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sarah Lucas is a PhD candidate in the Microbiology, Immunology and Cancer Biology multidisciplinary graduate program at the University of Minnesota - Twin Cities. She is currently advised by Dr. Ryan Hunter in the Department of Microbiology & Immunology at UMN. Her research interests include using genomic and bioinformatic methods to characterize microbial communities associated with chronic infections, particularly of the upper airways. She couples this with data-driven wet lab experiments to explore inter-bacterial interactions. Sarah is particularly interested in how metabolic interactions between microbiota may influence pathogen persistence in chronic infections.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Prior to starting her doctoral work, Sarah completed a BSc degreen in Microbiology with a minor in Biochemistry at Penn State. After graduation she became a member of the Genomic Medicine and Infectious disease groups at J. Craig Venter institute, under the mentorship of Karen Nelson and William Nierman. It was here that she really developed her passion for studying microbial communities.
+
+Whe she isn't on her computer or in the lab, Sarah can be found hiking, biking, baking, and caring for a multitude of houseplants.
