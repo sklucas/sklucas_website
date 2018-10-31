@@ -34,4 +34,4 @@ Sarah Lucas is a PhD candidate in the Microbiology, Immunology and Cancer Biolog
 
 Prior to starting her doctoral work, Sarah completed a BSc degreen in Microbiology with a minor in Biochemistry at Penn State. After graduation she became a member of the Genomic Medicine and Infectious Disease groups at J. Craig Venter institute, under the mentorship of Karen Nelson and William Nierman. It was here that she really developed her passion for studying microbial communities.
 
-When she isn't on her computer or in the lab, Sarah can be found hiking, biking, baking, and caring for a multitude of houseplants.
+When she isn't in the lab, Sarah can be found hiking, biking, baking, and caring for a multitude of houseplants.
