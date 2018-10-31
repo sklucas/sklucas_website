@@ -32,6 +32,6 @@ weight = 5
 
 Sarah Lucas is a PhD candidate in the Microbiology, Immunology and Cancer Biology multidisciplinary graduate program at the University of Minnesota - Twin Cities. She is currently advised by Dr. Ryan Hunter in the Department of Microbiology & Immunology at UMN. Her research interests include using genomic and bioinformatic methods to characterize microbial communities associated with chronic infections, particularly of the upper airways. She couples this with data-driven wet lab experiments to explore inter-bacterial interactions.
 
-Prior to starting her doctoral work, Sarah completed a BSc degreen in Microbiology with a minor in Biochemistry at Penn State. After graduation she became a member of the Genomic Medicine and Infectious Disease groups at J. Craig Venter institute, under the mentorship of Karen Nelson and William Nierman. It was here that she really developed her passion for studying microbial communities.
+Prior to starting her doctoral work, Sarah completed a BSc degreen in Microbiology with a minor in Biochemistry at Penn State. After graduation she became a member of the Genomic Medicine and Infectious Disease groups at J. Craig Venter institute, under the mentorship of Karen Nelson and Bill Nierman. It was at JCVI that she developed her passion for studying microbial communities.
 
 When she isn't in the lab, Sarah can be found hiking, biking, baking, and caring for a multitude of houseplants.
