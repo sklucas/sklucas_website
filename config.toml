@@ -282,10 +282,10 @@ enableGitInfo = false
   url = "#about"
   weight = 1
 
-#[[menu.main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 2
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 2
   
 #[[menu.main]]
 #  name = "Publications"
@@ -309,10 +309,10 @@ enableGitInfo = false
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[menu.main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 7
+ [[menu.main]]
+    name = "CV"
+    url = "files/cv.pdf"
+    weight = 3
 
 # Search.
 [params.search]
