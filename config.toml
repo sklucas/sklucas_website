@@ -285,7 +285,6 @@ enableGitInfo = false
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  data-netlify = "true"
   weight = 2
   
 #[[menu.main]]
