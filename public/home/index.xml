@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 20 Nov 2018 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -36,7 +36,7 @@
       <pubDate>Tue, 23 Oct 2018 00:00:00 -0500</pubDate>
       
       <guid>/home/about/</guid>
-      <description>Biography Sarah Lucas is a PhD candidate in the Microbiology, Immunology and Cancer Biology multidisciplinary graduate program at the University of Minnesota - Twin Cities. She is currently advised by Dr. Ryan Hunter in the Department of Microbiology &amp;amp; Immunology at UMN. Her research interests include using genomic and bioinformatic methods to characterize microbial communities associated with chronic infections, particularly of the upper airways. She couples this with data-driven wet lab experiments to explore inter-bacterial interactions.</description>
+      <description>Biography Sarah Lucas is a PhD candidate in the Microbiology, Immunology and Cancer Biology multidisciplinary graduate program at the University of Minnesota - Twin Cities. She is currently advised by Dr. Ryan Hunter in the Department of Microbiology &amp;amp; Immunology at UMN. Her research interests include using genomic and bioinformatic methods to characterize microbial communities associated with chronic infections, particularly of the upper airways in humans. She couples this with data-driven wet lab experiments to explore bacterial community interactions.</description>
     </item>
     
     <item>
@@ -143,7 +143,7 @@ I am a teaching instructor for the following courses at University X:
     <item>
       <title>Contact</title>
       <link>/home/contact/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
+      <pubDate>Tue, 20 Nov 2018 00:00:00 -0600</pubDate>
       
       <guid>/home/contact/</guid>
       <description></description>
