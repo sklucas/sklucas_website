@@ -61,7 +61,7 @@ enableGitInfo = false
   { name = "Hunter Lab", url = "https://www.hunterlabumn.com/" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "SKL_photo1.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "headshot_coffee.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "lucas156@umn.edu"
