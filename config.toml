@@ -51,21 +51,21 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Sarah K. Lucas"
-  role = "Ph.D. Candidate"
+  name = "Sarah K. Lucas, Ph.D."
+  role = "Postdoctoral Researcher"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Minnesota - Twin Cities", url = "https://twin-cities.umn.edu/" },
-  { name = "Department of Microbiology & Immunology", url = "https://www.microbiology.umn.edu/" },
-  { name = "Hunter Lab", url = "https://www.hunterlabumn.com/" }]
+  organizations = [ { name = "University of Michigan", url = "https://umich.edu/" },
+  { name = "Department of Microbiology & Immunology", url = "https://medicine.umich.edu/dept/microbiology-immunology" },
+  { name = "Schloss Lab", url = "https://www.schlosslab.org/" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "SKL_photo2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "lucas156@umn.edu"
-  address = "3-147 Microbiology Research Facility, 689 23rd Avenue SE, Minneapolis, MN 55455"
+  email = "salucas@umich.edu"
+#  address = "3-147 Microbiology Research Facility, 689 23rd Avenue SE, Minneapolis, MN 55455"
 
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
@@ -267,7 +267,7 @@ enableGitInfo = false
    [[params.social]]
      icon = "cv"
      icon_pack = "ai"
-     link = "files/CV_2019_LucasSK.pdf"
+     link = "files/SKLucas_CV_2020Jun.pdf"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
